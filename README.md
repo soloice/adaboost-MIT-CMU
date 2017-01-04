@@ -1,4 +1,8 @@
 # adaboost-MIT-CMU
+
+Date: 2016, May.
+Author: Soloice.
+
 In this repo, Adaboost algorithm is implemented and tested with the MIT-CMU data set.
 
 Adaboost is a well-known algorithm which is able to boost weak classifers into strong ones.  For human face recognition, a classical classifier is based on Haar-like features and combine these weak features to make a final strong classifier.
